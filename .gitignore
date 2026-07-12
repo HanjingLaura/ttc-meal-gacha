@@ -1,0 +1,25 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+
+# Expo
+.expo/
+web-build/
+expo-env.d.ts
+
+# 本地运行数据（服务端会自动重建）
+data/history.json
+
+# 工具目录 / 过程产物
+.claude/
+.playwright-cli/
+output/
+__pycache__/
+*.tar.gz
+
+# OS
+.DS_Store
