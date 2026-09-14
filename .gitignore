@@ -23,3 +23,43 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Shared local-only files
+.codex/
+.agents/
+.cursor/
+.playwright-mcp/
+.omx/
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+logs/
+tmp/
+temp/
+*.tmp
+.cache/
+.parcel-cache/
+.turbo/
+.nyc_output/
+coverage/
+build/
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
